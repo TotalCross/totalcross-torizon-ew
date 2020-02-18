@@ -1,0 +1,1 @@
+java -cp ${TOTALCROSSSDK}/dist/totalcross-sdk.jar tc.Deploy target/HelloWorld.jar -linux_arm /n HelloWorld /p /r ${TOTALCROSSKEY}
